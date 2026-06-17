@@ -92,7 +92,3 @@ docker-compose up
 - **Frontend:** Vercel (`frontend/`)
 - **Backend:** Render (`backend/`)
 - **ML Service:** Separate container/host (`ml-service/`)
-
-## License
-
-MIT
