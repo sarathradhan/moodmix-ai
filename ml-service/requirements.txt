@@ -1,0 +1,9 @@
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+python-dotenv==1.0.1
+
+# HuggingFace emotion model (j-hartmann/emotion-english-distilroberta-base)
+transformers==4.47.1
+torch==2.6.0

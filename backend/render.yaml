@@ -1,0 +1,10 @@
+# Render.com blueprint (placeholder)
+services:
+  - type: web
+    name: moodmix-api
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
